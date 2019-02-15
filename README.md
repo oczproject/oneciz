@@ -1,2 +1,2 @@
 # oneciz
-Oneciz - The AI Network
+Oneciz - Indexing/Bot/Ai Network
