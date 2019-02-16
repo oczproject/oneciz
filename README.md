@@ -1,2 +1,2 @@
 # oneciz
-Oneciz - Indexing/Bot/Ai Network
+Oneciz - Advanced Indexing Network
